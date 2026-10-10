@@ -97,8 +97,8 @@ The reporter `/report` check remained unresolved during the documented investiga
 
 ## How I Used AI
 
-I used ChatGPT as a support tool to understand Kubernetes and Helm errors, review diagnostic outputs, and discuss possible root causes.
+## How I Used AI
 
-I used it to help structure my troubleshooting notes and documentation. I checked the suggested commands and compared the recommendations against the actual output from my environment.
+I used ChatGPT to help troubleshoot Kubernetes and Helm deployment issues, understand command outputs, and identify possible causes of errors. I also used it to organize my debugging findings and prepare the project documentation.
 
-The final configuration changes, verification results, and remaining issues are documented based on the work performed in my environment.
+I verified the suggested solutions against my actual environment, tested the configuration changes, and recorded the results. Where an issue remained unresolved, I documented the findings rather than claiming a successful fix.
